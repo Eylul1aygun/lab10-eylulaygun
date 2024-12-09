@@ -10,5 +10,5 @@ def factorial(n):
             
     return result
 
-if factorial(3) == 6:
+if (factorial(0) == 1) & (factorial(1) == 1):
     print("No Errors")
